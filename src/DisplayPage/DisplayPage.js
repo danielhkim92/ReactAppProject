@@ -5,7 +5,7 @@ import './DisplayPage.css';
 class DisplayPage extends Component {
   render() {
     return (
-      <div className="col s6">
+      <div id="display" className="col s6">
       <h3> HI </h3>
       <p>INTP PERSONALITY (“THE LOGICIAN”)
 
