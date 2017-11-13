@@ -2,17 +2,33 @@ import React, { Component } from 'react';
 
 
 class VideoDisplay extends Component {
+
+
   render() {
+  	
     return (
-      <div className="col s2">
-      	<h3> This is my display show page</h3>
-      	<div className="carousel">
-		    <img src="https://i.ytimg.com/vi/Ge_22K0UTIY/maxresdefault.jpg"/>
-		    <a className="carousel-item" href="#two!"><img src="https://i.ytimg.com/vi/Ge_22K0UTIY/maxresdefault.jpg"/></a>
-		    <a className="carousel-item" href="#three!"><img src="https://i.ytimg.com/vi/Ge_22K0UTIY/maxresdefault.jpg"/></a>
-		    <a className="carousel-item" href="#four!"><img src="https://i.ytimg.com/vi/Ge_22K0UTIY/maxresdefault.jpg"/></a>
-		    <a className="carousel-item" href="#five!"><img src="https://i.ytimg.com/vi/Ge_22K0UTIY/maxresdefault.jpg"/></a>
-  		</div>
+      <div className="col s4">
+
+      	<h3> This is my VideoDisplay</h3>
+
+
+		  <ul className="collapsible popout">
+		    <li>
+		      <div className="collapsible-header">First</div>
+		      <div className="collapsible-body"><iframe width="420" height="315"
+				src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe></div>
+		    </li>
+		    <li>
+		      <div className="collapsible-header">Second</div>
+		      <div className="collapsible-body"><iframe width="420" height="315"
+		      	src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe></div>
+		    </li>
+		    <li>
+		      <div className="collapsible-header">Third</div>
+		      <div className="collapsible-body"><iframe width="420" height="315"
+				src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe></div>
+		    </li>
+		  </ul>
       </div>
     );
   }
