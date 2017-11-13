@@ -80,7 +80,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -89,7 +89,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -98,7 +98,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -107,7 +107,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -116,7 +116,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -125,7 +125,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -134,7 +134,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -143,7 +143,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -152,7 +152,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -161,7 +161,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -170,7 +170,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -179,7 +179,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -188,7 +188,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -197,7 +197,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -206,7 +206,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -215,7 +215,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -224,7 +224,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -233,7 +233,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -242,7 +242,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -251,7 +251,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -260,7 +260,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -269,7 +269,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -278,7 +278,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>
+			</form>
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -287,7 +287,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>	
+			</form>	
     		<form action="#1">
 			    <p>makes lists<input name="group1" type="radio" id="test1"/><label for="test1"></label>
 			    <input name="group1" type="radio" id="test2"/><label for="test2"></label>
@@ -296,7 +296,7 @@ class Test extends Component {
 			    <input name="group1" type="radio" id="test5"/><label for="test5"></label>
 			    relies on memory
 			    </p>
-			  </form>			  			  			
+			</form>			  			  			
 		 </div>
     );
   }
