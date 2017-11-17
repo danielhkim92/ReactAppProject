@@ -27,22 +27,23 @@ class VideoDisplay extends Component {
     return (
       <div className="col s4">
 
-      	<h3> This is my VideoDisplay</h3>
+      	<h3>Please Click on a Type<br></br>
+      		To See Videos</h3>
 
 
 		  <ul className="collapsible popout">
 		    <li>
-		      <div className="collapsible-header">First</div>
+		      <div className="collapsible-header">First Video</div>
 		      <div className="collapsible-body"><iframe id="1" width="420" height="315"
 				src={x}></iframe></div>
 		    </li>
 		    <li>
-		      <div className="collapsible-header">Second</div>
+		      <div className="collapsible-header">Second Video</div>
 		      <div className="collapsible-body"><iframe id="2" width="420" height="315"
 		      	src={y}></iframe></div>
 		    </li>
 		    <li>
-		      <div className="collapsible-header">Third</div>
+		      <div className="collapsible-header">Third Video</div>
 		      <div className="collapsible-body"><iframe id="3" width="420" height="315"
 				src={z}></iframe></div>
 		    </li>
