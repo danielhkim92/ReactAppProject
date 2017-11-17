@@ -3,9 +3,23 @@ import './DisplayPage.css';
 
 
 class DisplayPage extends Component {
-  render() {
+	constructor(){
+		super();
+
+							
+			
+	}
+	
+
+
+	render() {
+
+
+
+
     return (
-      <div id="display" className="col s6">
+      <div id="display" className="col s6 fixed">
+
       <h3> HI </h3>
       <p>INTP PERSONALITY (“THE LOGICIAN”)
 

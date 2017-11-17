@@ -6,12 +6,8 @@ class PersonalityTypes extends Component {
     return (
 		      	<div className="col s2">
 		     		<ul className="collection">
-		     		<li className="collection-item avatar">
+		     			<li className="collection-item avatar">
 					      <span className="title"><h4>Types</h4></span>
-		      			</li>
-		    			<li className="collection-item avatar">
-					      <span className="title">Take Your</span>
-					      <p>Test Here</p>
 		      			</li>
 		        		<li className="collection-item avatar">
 					      <span className="title">Architect</span>
