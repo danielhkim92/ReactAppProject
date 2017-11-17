@@ -3,6 +3,7 @@ import PersonalityTypes from './PersonalityTypes/PersonalityTypes.js'
 import DisplayPage from './DisplayPage/DisplayPage.js'
 import VideoDisplay from './VideoDisplay/VideoDisplay.js'
 import Test from './Test.js'
+import Header from './Header.js'
 
 
 
@@ -180,6 +181,7 @@ class App extends Component {
     return (
 
       <div className='row'>
+      <Header/>
           
         <PersonalityTypes containerCurrentType={this.containerCurrentType}/>
         <DisplayPage display={this.state.display} types={this.state.types} currentType={this.state.currentType} currentIndex={this.state.currentIndex}/>
