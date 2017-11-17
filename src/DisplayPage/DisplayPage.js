@@ -14,12 +14,14 @@ class DisplayPage extends Component {
 
 	render() {
 
-
+		const p = this.props.types.map((item, i) => {
+			return <h1 key={i}>{item.name}</h1>
+		})
 
 
     return (
       <div id="display" className="col s6 fixed">
-
+{p}
       <h3> HI </h3>
       <p>INTP PERSONALITY (“THE LOGICIAN”)
 
