@@ -39,7 +39,7 @@ class VideoDisplay extends Component {
 		    </li>
 		    <li>
 		      <div className="collapsible-header">Second Video</div>
-		      <div className="collapsible-body"><iframe id="2" width="420" height="315"
+		      <div className	="collapsible-body"><iframe id="2" width="420" height="315"
 		      	src={y}></iframe></div>
 		    </li>
 		    <li>
