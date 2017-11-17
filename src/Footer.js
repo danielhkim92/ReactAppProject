@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
         <footer class="page-footer">
           <div class="container">
             <div class="row">
