@@ -34,9 +34,11 @@ class DisplayPage extends Component {
 
     return (
       <div id="display" className="col s6 fixed">
-      	<h4 className="center">{this.props.display.name}</h4>
-      	<p className="center">{this.props.display.intro}</p>
-      	<p className="center">{this.props.display.conclusion}</p>
+      	<img width="700px" src={this.props.display.pic1}/>
+      	<h3 className="center">{this.props.display.name}</h3>
+      	<h5 className="center">{this.props.display.intro}</h5>
+      	<img width="700px" src={this.props.display.pic2}/>
+      	<h5 className="center">{this.props.display.conclusion}</h5>
 
 
 

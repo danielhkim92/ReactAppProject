@@ -121,7 +121,7 @@ class App extends Component {
               intro: "People who share the ESFJ personality type are, for lack of a better word, popular – which makes sense, given that it is also a very common personality type, making up twelve percent of the population. In high school, ESFJs are the cheerleaders and the quarterbacks, setting the tone, taking the spotlight and leading their teams forward to victory and fame. Later in life, ESFJs continue to enjoy supporting their friends and loved ones, organizing social gatherings and doing their best to make sure everyone is happy.",
               conclusion: "Few personality types are as practical and caring as ESFJs. Known for their social and administrative skills, ESFJs are good at creating and maintaining a secure, stable and friendly environment for themselves and their loved ones. ESFJs’ dedication is invaluable in many areas, including their own personal growth.  Yet ESFJs can be easily tripped up in areas where their kindness and practical approach are more of a liability than an asset. Whether it is finding (or keeping) a partner, learning to relax or improvise, reaching dazzling heights on the career ladder, or managing their workload, ESFJs need to put in a conscious effort to develop their weaker traits and additional skills.",  
               pic1: "https://storage.googleapis.com/neris/public/images/headers/esfj-personality-type-header.png",
-              pic2:
+              pic2: "https://www.16personalities.com/images/types/scenes/sentinels_Consul_ESFJ_conclusion.png"
               },{
               name: "ISTP",
               youtubelink1: "https://www.youtube.com/embed/5bZEkogYONY",
@@ -129,8 +129,8 @@ class App extends Component {
               youtubelink3: "https://www.youtube.com/embed/yp7Gxy4XXfk",
               intro: "ISTPs love to explore with their hands and their eyes, touching and examining the world around them with cool rationalism and spirited curiosity. People with this personality type are natural Makers, moving from project to project, building the useful and the superfluous for the fun of it, and learning from their environment as they go. Often mechanics and engineers, ISTPs find no greater joy than in getting their hands dirty pulling things apart and putting them back together, just a little bit better than they were before.",
               conclusion: "Few personality types are as bold and practical as ISTPs. Known for their technical mastery and willingness to improvise, ISTPs are good at finding unique solutions to seemingly impossible challenges. ISTPs’ desire to explore and learn new things is invaluable in many areas, including their own personal growth.",
-              pic1: ,
-              pic2:
+              pic1: "https://storage.googleapis.com/neris/public/images/headers/istp-personality-type-header.png",
+              pic2: "https://www.16personalities.com/images/types/scenes/explorers_Virtuoso_ISTP_conclusion.png"
               },{
               name: "ISFP",
               youtubelink1: "https://www.youtube.com/embed/Av0L9olZdco",
@@ -138,8 +138,8 @@ class App extends Component {
               youtubelink3: "https://www.youtube.com/embed/MTwFd4oYwic",
               intro: "ISFP personality types are true artists, but not necessarily in the typical sense where they’re out painting happy little trees. Often enough though, they are perfectly capable of this. Rather, it’s that they use aesthetics, design and even their choices and actions to push the limits of social convention. ISFPs enjoy upsetting traditional expectations with experiments in beauty and behavior – chances are, they’ve expressed more than once the phrase 'Don’t box me in!'",
               conclusion: "Few personality types are as colorful and charming as ISFPs. Known for their kindness and artistic skills, ISFPs are great at finding exciting new things to explore and experience. ISFPs’ creativity and down-to-earth attitude are invaluable in many areas, including their own personal growth.",
-              pic1: ,
-              pic2:
+              pic1: "https://storage.googleapis.com/neris/public/images/headers/isfp-personality-type-header.png",
+              pic2: "https://www.16personalities.com/images/types/scenes/explorers_Adventurer_ISFP_conclusion.png"
               },{
               name: "ESTP",
               youtubelink1: "https://www.youtube.com/embed/-AOLm6WF3SM",
@@ -147,8 +147,8 @@ class App extends Component {
               youtubelink3: "https://www.youtube.com/embed/6ZT8a7IiNoE",
               intro: "ESTP personality types always have an impact on their immediate surroundings – the best way to spot them at a party is to look for the whirling eddy of people flitting about them as they move from group to group. Laughing and entertaining with a blunt and earthy humor, ESTP personalities love to be the center of attention. If an audience member is asked to come on stage, ESTPs volunteer – or volunteer a shy friend.  Theory, abstract concepts and plodding discussions about global issues and their implications don’t keep ESTPs interested for long. ESTPs keep their conversation energetic, with a good dose of intelligence, but they like to talk about what is – or better yet, to just go out and do it. ESTPs leap before they look, fixing their mistakes as they go, rather than sitting idle, preparing contingencies and escape clauses.",
               conclusion: "Few personality types are as charming and attractive as ESTPs. Known for their ability to improvise and focus completely on the present, ESTPs are great at finding exciting new things to explore and experience. ESTPs’ creativity and down-to-earth attitude are invaluable in many areas, including their own personal growth.",
-              pic1: ,
-              pic2:
+              pic1: "https://storage.googleapis.com/neris/public/images/headers/estp-personality-type-header.png",
+              pic2: "https://www.16personalities.com/images/types/scenes/explorers_Entrepreneur_ESTP_conclusion.png"
               },{
               name: "ESFP",
               youtubelink1: "https://www.youtube.com/embed/ToN4uSCYNG4",
@@ -156,8 +156,8 @@ class App extends Component {
               youtubelink3: "https://www.youtube.com/embed/O5emFi1dbl8",
               intro: "If anyone is to be found spontaneously breaking into song and dance, it is the ESFP personality type. ESFPs get caught up in the excitement of the moment, and want everyone else to feel that way, too. No other personality type is as generous with their time and energy as ESFPs when it comes to encouraging others, and no other personality type does it with such irresistible style.",
               conclusion: "Few personality types are as charming and attractive as ESFPs. Known for their ability to improvise and focus completely on the present, ESFPs are great at finding exciting new things to explore and experience. ESFPs’ energy, enthusiasm and down-to-earth attitude are invaluable in many areas, including their own personal growth.",                
-            pic1: ,
-              pic2:
+              pic1: "https://storage.googleapis.com/neris/public/images/headers/esfp-personality-type-header.png",
+              pic2: "https://www.16personalities.com/images/types/scenes/explorers_Entertainer_ESFP_conclusion.png"
                  }]
       }
 
