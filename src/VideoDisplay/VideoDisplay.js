@@ -33,18 +33,18 @@ class VideoDisplay extends Component {
 
 		  <ul className="collapsible popout">
 		    <li>
-		      <div className="collapsible-header">First Video</div>
-		      <div className="collapsible-body"><iframe id="1" width="420" height="315"
+		      <div className="collapsible-header #ef9a9a red lighten-3">First Video</div>
+		      <div className="collapsible-body #e57373 red lighten-2"><iframe id="1" width="420" height="315"
 				src={x}></iframe></div>
 		    </li>
 		    <li>
-		      <div className="collapsible-header">Second Video</div>
-		      <div className="collapsible-body"><iframe id="2" width="420" height="315"
+		      <div className="collapsible-header #ef9a9a red lighten-3">Second Video</div>
+		      <div className="collapsible-body #e57373 red lighten-2"><iframe id="2" width="420" height="315"
 		      	src={y}></iframe></div>
 		    </li>
 		    <li>
-		      <div className="collapsible-header">Third Video</div>
-		      <div className="collapsible-body"><iframe id="3" width="420" height="315"
+		      <div className="collapsible-header #ef9a9a red lighten-3">Third Video</div>
+		      <div className="collapsible-body #e57373 red lighten-2"><iframe id="3" width="420" height="315"
 				src={z}></iframe></div>
 		    </li>
 		  </ul>

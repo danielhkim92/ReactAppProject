@@ -4,7 +4,7 @@ import DisplayPage from './DisplayPage/DisplayPage.js'
 import VideoDisplay from './VideoDisplay/VideoDisplay.js'
 import Test from './Test.js'
 import Header from './Header.js'
-
+import Footer from './Footer.js'
 
 
 
@@ -179,13 +179,14 @@ class App extends Component {
 
   render() {
     return (
-
+      
       <div className='row'>
-      <Header/>
+      <Header margin="0px"/>
           
         <PersonalityTypes containerCurrentType={this.containerCurrentType}/>
         <DisplayPage display={this.state.display} types={this.state.types} currentType={this.state.currentType} currentIndex={this.state.currentIndex}/>
         <VideoDisplay display={this.state.display} types={this.state.types} currentType={this.state.currentType}/>
+        <Footer/>
         <Test/>
       </div>
     );
